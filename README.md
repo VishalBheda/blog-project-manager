@@ -1,4 +1,4 @@
-# demox
+# Project Manager UI for <a href="https://github.com/mathieudutour/medium-to-own-blog">medium-to-own-blog
 
 ## Project setup
 ```
