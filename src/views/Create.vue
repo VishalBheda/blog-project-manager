@@ -1,12 +1,16 @@
 <template>
   <div>
-    <h1>Create PAge</h1>
+   <create-new></create-new>
   </div>
 </template>
 
 <script>
+  import CreateNew from '../components/create/newcreate'
 export default {
   name: 'Create',
+  components:{
+    CreateNew
+  }
 };
 </script>
 
