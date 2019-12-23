@@ -1,12 +1,16 @@
 <template>
     <div>
-      <h1>Import Page</h1>
+     <import-project></import-project>
     </div>
 </template>
 
 <script>
+  import ImportProject from '../components/import/import'
 export default {
   name: 'Import',
+  components: {
+    ImportProject
+  }
 };
 </script>
 

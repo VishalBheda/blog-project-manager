@@ -1,12 +1,15 @@
 <template>
-    <div>
+  <div class="container">
+    <div class="notification">
+    IMPORT
 
     </div>
+  </div>
 </template>
 
 <script>
     export default {
-        name: "dashboard"
+        name: "import"
     }
 </script>
 
